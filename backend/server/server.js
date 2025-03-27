@@ -27,10 +27,10 @@ const ProjectSchema = new mongoose.Schema({
 const Project =  mongoose.model("Project", ProjectSchema);
 
 //Routes
-app.get("/api/projects",async (req, res) => {
+app.get("/api/projects", async (req, res) => {
     try {
         const projects = await Project.find();
-        res.json(projects);
+        res.status(200).json(projects);
         }
     catch (err) {
         res.status(500).json({ error: "Error fetching projects"});

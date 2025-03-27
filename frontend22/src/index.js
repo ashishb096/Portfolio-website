@@ -6,14 +6,14 @@ import About from "./pages/About";
 import Skills from "./pages/Skills" ;
 import Projects from "./pages/Projects" ;
 import Contact from "./pages/Contact" ;
-import Footer from "./pages/Footer";
+import Footer from "./components/Footer";
 import "./index.css";
 
 // Main application component that defines the structure of the portfolio website.
 // It includes a navigation bar, different page routes, and a footer
 
-function app() {
-    return{
+function App() {
+    return (
         <Router>
             <div className="bg-gray-100 min-h-screen">
                 <Navbar />
@@ -27,10 +27,10 @@ function app() {
                 <Footer />
             </div>
         </Router>
-    };
+    );
 }
 
-export default app;
+export default App;
 
 
 
