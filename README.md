@@ -58,7 +58,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 For any inquiries, reach out via:
 - **Email:** ashishb096@example.com *(Replace with actual email)*
 - **GitHub:** [@ashishb096](https://github.com/ashishb096)
-- **LinkedIn:** [ashish-bisht-26aa7b192](https://www.linkedin.com/in/ashish-bisht-26aa7b19
+- **LinkedIn:** [ashish-bisht-26aa7b192](https://www.linkedin.com/in/ashish-bisht-26aa7b19)
 
 ---
 🚀 *Stay tuned for further updates!*
