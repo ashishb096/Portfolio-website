@@ -1,6 +1,6 @@
 # Portfolio Website
 
-![Portfolio Banner](https://via.placeholder.com/1200x400.png?text=My+Portfolio+Website)
+
 
 ## 🚀 About the Project
 This is my personal portfolio website built using **React.js**. The site showcases my skills, experience, projects, and contact information in an interactive and responsive manner.
